@@ -2,6 +2,7 @@
 Plant.tio Project
 
 Developer: Wayne Akeboshi
+
 Contributors: Reign Balajadia, Mary Cotoco
 
 ABSTRACT
